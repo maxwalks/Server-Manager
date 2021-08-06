@@ -1,3 +1,7 @@
 if (true)
 console.log('hello!')
 console.log('another test hi hi')
+console.log('hello!')
+console.log('v test hi a')
+console.log('d!')
+console.log('another e hi hi')
